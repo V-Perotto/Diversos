@@ -1,0 +1,11 @@
+msgbox (Chr(65))
+msgbox (Chr(66))
+msgbox (Chr(67))
+msgbox (Chr(97))
+msgbox (Chr(98))
+msgbox (Chr(99))
+
+msgbox (Chr(34))
+msgbox (Chr(35))
+msgbox (Chr(36))
+msgbox (Chr(37))
